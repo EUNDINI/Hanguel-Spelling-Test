@@ -1,13 +1,20 @@
-## 1. 서비스 개요 📚
-### Hangul-Spelling-Test
-* 한글 맞춤법 퀴즈 반응형 웹사이트
-* 우리나라의 주권, 언어, 문화를 찾은 8월 15일 한글날에 '한글 맞춤법 퀴즈'를 통해    
-나의 한국어 맞춤법을 검토하고 배워가는 유익한 시간이 되고자 함
+<h1 align="center">한글 맞춤법 퀴즈 반응형 웹사이트 '한국어능력고사'</h1>
+<img src="https://user-images.githubusercontent.com/72064966/183716021-f4892d52-40f6-41f3-b047-cc5ee6c799d9.JPG">
 
-## 2. UI 설계(Figma) 📄
-https://www.figma.com/file/JQFdz2Rrd1AscEOsqKEXQp/%EB%A7%9E%EC%B6%A4%EB%B2%95-Quiz?node-id=156%3A0
+## 기술 스택
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-333664?style=flat-square&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-6DB33F?style=flat-square&logo=Figma&logoColor=white"/>
 
-## 3. 주요 기능 및 구현 기술 🛠
+</p>
+
+## UI 설계(Figma) - [링크](https://www.figma.com/file/JQFdz2Rrd1AscEOsqKEXQp/%EB%A7%9E%EC%B6%A4%EB%B2%95-Quiz?node-id=156%3A0)
+
+
+## 주요 기능 및 구현 기술 🛠
 * 반응형 웹사이트
   * HTML5, CSS, Javascript, Bootstrap을 사용
 * 20개 퀴즈를 통해 점수에 따라 1~5단계로 결과 분류
